@@ -61,7 +61,8 @@ Config.WeaponWhitelist = {
     'WEAPON_FIREEXTINGUISHER',
     'WEAPON_HAZARDCAN',
     'WEAPON_RAYCARBINE',
-    'WEAPON_STUNGUN'
+    'WEAPON_STUNGUN',
+    'WEAPON_TASER',
 }
 
 Config.Blips = {
